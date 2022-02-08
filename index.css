@@ -19,11 +19,11 @@ body {
 }
 
 #push-btn, #unshift-btn {
-    background-color: blue;
+    background-color: #80D87F;
 }
 
 #shift-btn,#pop-btn {
-    background-color: purple;
+    background-color: #E23349;
 }
 
 h1 {
